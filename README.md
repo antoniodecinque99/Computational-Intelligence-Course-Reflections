@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains all the materials and documentation related to my experiences and projects in the Computational Intelligence course. As a student, I was deeply engaged with the course material, which explored various techniques and approaches for creating intelligent systems. This README outlines the contents of this repository, which include detailed notes, lab write-ups, and project reviews that I completed throughout the course.
+This repository contains all the materials and documentation related to my experiences and projects in the Computational Intelligence course at Politecnico di Torino (PoliTo) during the academic years 2022-2023. As a student, I was deeply engaged with the course material, which explored various techniques and approaches for creating intelligent systems. This README outlines the contents of this repository, which include detailed notes, lab write-ups, and project reviews that I completed throughout the course.
 
 ## Course Overview
 
